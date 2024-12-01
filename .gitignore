@@ -1,0 +1,11 @@
+.fabric/
+.mixin.out/
+logs/
+crash-reports/
+saves/
+schematics/
+usercache.json
+usernamecache.json
+rhino.local.properties
+XaeroWaypoints_BACKUP240807/
+.curseclient
